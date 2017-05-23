@@ -1,0 +1,6 @@
+Attipatla Ravindra      1171110064  700647825   Viral Fever       true   39  true  false  20/10/20131500 dollars    Male    Has high body temperature     red eyes n lean body   InHouse       General Physician  
+Vijay Raj kumar         1171110059  700687935   Diarrhea          false  46  true  false  23/11/20132300 dollars    female  Vomit sensation               very weak              InHouse       General Physician  
+Jimmy Anderson          1171110168  700756893   Bone Dislocation  false  17  false false  11/12/20137500 dollars    Male    Swelled a bit                 greeny at the spot     out patient   Specialist         
+Srinivasa Rao Namburu   1170245555  700865234   conjunctivitis    true   26  true  false  20/01/1994800  dollars    female  Dark red eyes                 watery eyes            out patient   General Physician   
+Srinivasa Rao Namburu   1170245781  700865234   conjunctivitis    true   26  true  false  20/01/1994800  dollars    female  Dark red eyes                 watery eyes            out patient   General Physician  
+Jimmy Anderson          1171112222  700756893   Bone Dislocation  false  17  false false  11/12/20137500 dollars    Male    Swelled a bit                 greeny at the spot     out patient   Specialist         
